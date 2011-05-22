@@ -1,6 +1,6 @@
 ### About
 
-AppleScript that, **without confirmation**, removes the currently-playing track from one's iTunes library. It displays a Growl Notification.
+AppleScript that, **without confirmation**, removes the currently-playing track from one's iTunes library and filesystem. It displays a Growl Notification.
 
 The name is an oxymoron. If the script were truly silent, it wouldn't notify you. Its "silence" refers to the lack of confirmation before deleting the track.
 
