@@ -17,7 +17,7 @@ These scripts shine when used with a global keyboard trigger. [Quicksilver](http
 
 Uploads the currently-playing track to [CloudApp](http://getcloudapp.com).
 
-#### Silent Growl-Enabled Whack Current Track.scpt
+#### Whack Current Track.scpt
 
 With confirmation, removes the currently-playing track from one's iTunes library and the filesystem, displaying a Growl notification with the results of its run.
 
